@@ -1,7 +1,15 @@
 img {
    height: auto;
-   max-width: 100%;
+   max-width: 125%;
  }
+
+.main {
+   height: 40%;
+}
+
+.text {
+   height: 8%;
+}
  
  body {
   height: 100%;
